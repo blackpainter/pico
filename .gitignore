@@ -1,0 +1,39 @@
+# Operating System Files
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+*.DS_Store
+Thumbs.db
+*.sw?
+.#*
+*#
+*~
+*.sublime-*
+*.bak
+*.log
+
+# Build Artifacts
+.gradle/
+build/
+target/
+dependency-reduced-pom.xml
+src/main/resources/application-sms.properties
+src/main/resources/application-im.properties
+
+# Eclipse Project Files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA Files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.idea
+.trigger
+logs
